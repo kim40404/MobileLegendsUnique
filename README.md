@@ -92,3 +92,5 @@ Please contact me for collaboration or permission.
 ## Win Rate Methodology
 
 ## Data Sources
+
+## Contributors: Community-sourced hero statistics
