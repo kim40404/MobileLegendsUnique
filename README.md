@@ -84,3 +84,5 @@ Please contact me for collaboration or permission.
 ## Analysis Notes: Hero performance data collected from Mythic rank matches
 
 ## Patch Notes
+
+## Hero Tier List Updated
