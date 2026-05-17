@@ -86,3 +86,5 @@ Please contact me for collaboration or permission.
 ## Patch Notes
 
 ## Hero Tier List Updated
+
+## Ranked Season Data
