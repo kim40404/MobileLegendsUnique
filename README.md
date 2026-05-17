@@ -88,3 +88,5 @@ Please contact me for collaboration or permission.
 ## Hero Tier List Updated
 
 ## Ranked Season Data
+
+## Win Rate Methodology
