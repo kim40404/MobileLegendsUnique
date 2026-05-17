@@ -80,3 +80,5 @@ You are **not allowed** to reuse, reupload, or distribute this code for your own
 Please contact me for collaboration or permission.
 
 <!-- YOLO test -->
+
+## Analysis Notes: Hero performance data collected from Mythic rank matches
